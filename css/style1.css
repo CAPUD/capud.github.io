@@ -1,0 +1,74 @@
+.jumbotron {background-image: url("insiteprotestor.jpg");
+height: 400px;
+
+padding: 13px;
+margin-right: auto;
+margin-left: auto;
+   background-size:     cover;                   
+    background-repeat:   no-repeat;
+    background-position: center center;  }
+.jumbotron p {color: white;
+font-family: 'Special Elite', cursive;
+font-size: 40px;
+bottom: 90px;
+position: relative;}
+.jumbotron h1 { color: red;
+font-family: 'Oswald'; sans-serif;
+margin-right: auto;
+margin-left: auto;
+font-size: 50px;
+text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
+bottom: 100px; 
+position: relative;
+}
+.navbar  display {display: inline}
+
+
+.Info { background-color: white;
+top: 100px;}
+.Info h3{font-family: 'Oswald', sans-serif;
+font-size: 48p;
+text-transform: uppercase;
+text-align: center;
+height: 200px; 
+position: relative;
+top: 10px;
+}
+form {font-size: 48p; font-family: 'Oswald', sans-serif;}
+
+.navbar ul {list-style-type: none;
+background-color: black;
+position: relative;}
+
+li {display: inline;
+padding-left:13%}
+
+.Info h1 {font-family: 'Special Elite', cursive;
+}
+.Info h1::after {content: ".";
+color:red;}
+
+.news {background-image: url("courtwhite.png"); 
+height: 300px;
+   background-size:     cover;                   
+    background-repeat:   no-repeat;
+    background-position: center top; 
+}
+
+
+.news h1 {font-family: 'Oswald', sans-serif;
+color: white;
+text-transform: uppercase; }
+
+.container p{text-transform: uppercase;
+font-size: 80p;
+font-family: 'Oswald', sans-serif;
+text-align: center;}
+.jumbotron .container {
+    position: relative; 
+    top: 100px;}
+	
+div {text-align: center}
+	
+
+
