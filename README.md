@@ -1,2 +1,2 @@
-# capud.github.io
+# http://capud.github.io
 site
